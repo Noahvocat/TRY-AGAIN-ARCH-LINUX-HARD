@@ -22,3 +22,5 @@ mv TOOBAD.sh /root/.zshrc
 
 then
 then source ~/.zshrc
+
+the script should be enabled now
