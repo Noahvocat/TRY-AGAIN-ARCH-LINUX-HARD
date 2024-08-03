@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp TOOBAD.sh /root/.zshrc
+cp TOOBAD.sh ~/.zshrc
 source ~/.zshrc
