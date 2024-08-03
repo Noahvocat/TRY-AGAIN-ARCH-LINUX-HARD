@@ -15,8 +15,10 @@ good luck
 
 ## SETTING UP TRY-AGAIN-ARCH-LINUX
 
-To enable TRY-AGAIN-ARCH-LINUX is download the script and move it to the /root directory
+To enable TRY-AGAIN-ARCH-LINUX download the script and move it to the /root directory
 
-To do this mv TOOBAD.sh /root/.zshrc
+To do this 
+mv TOOBAD.sh /root/.zshrc
 
+then
 then source ~/.zshrc
