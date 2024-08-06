@@ -1,4 +1,4 @@
-
+alias archinstall = echo "ArchInstall is blocked in Hard Mode"
 
 command_not_found_handler() {
     clear
