@@ -7,12 +7,14 @@ This .zshrc file is based on original idea of Suicide linux script for debian
 
 the purpose of this is to flex your skills on the arch linux installation
 
-archinstall is available anyways 
+~~archinstall is available anyways~~
+not in hard mode lol
 
 share how far did you get
 
 good luck 
-
+## Hard Mode
+Hard mode is a fork that just wipes the usb to make it even harder lol
 ## SETTING UP TRY-AGAIN-ARCH-LINUX
 
 To enable TRY-AGAIN-ARCH-LINUX download the script and move it to the /root directory
